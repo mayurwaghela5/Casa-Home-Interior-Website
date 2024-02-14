@@ -10,7 +10,7 @@ Features
     Home Interior Information: Browse through various home interior designs and ideas.
     User Registration: Users can register on the website to access additional features.
     User Login: Registered users can log in to their accounts securely.
-    Database Management: Utilizes MySQL database on phpMyAdmin to store user registration/login information
+    Database Management: Utilizes MySQL database on phpMyAdmin to store user registration/login information with encrypted passwords. 
 
 Screenshots
 ![*Screenshot1](./images/Screenshot%20(1).png "First Screen")
