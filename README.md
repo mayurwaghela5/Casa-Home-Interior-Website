@@ -13,8 +13,15 @@ Features
     Database Management: Utilizes MySQL database on phpMyAdmin to store user registration/login information
 
 Screenshots
+![*Screenshot1](./images/Screenshot%20(1).png "First Screen")
 
+![*Screenshot2](./images/Screenshot%20(2).png "Second Screen")
 
+![*Screenshot3](./images/Screenshot%20(3).png "Third Screen")
+
+![*Screenshot4](./images/Screenshot%20(4).png "Fourth Screen")
+
+![*dbScreen](./images/Screenshot%20(5).png "Database Info")
 Technologies Used
 
     PHP: Used for server-side scripting and handling backend functionalities.
